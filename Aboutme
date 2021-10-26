@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title> About </title>
+<style>
+html{
+	color: rgb(236, 240, 235);
+	font-family: 'herculanum';
+	background-color:rgb(36, 59, 28)
+}
+body{
+
+
+}
+h1{font-family: 'herculanum';
+
+
+}
+
+li{font-family: 'papyrus';}
+a {color: rgb(237,177, 56);}
+h4{font-family: 'papyrus';}
+a {color: rgb(237,177, 56);}
+  </style>
+  <body> <center>
+  	<h1> About Me </h1>
+  	<h4> <p> I was born in Olympia, WA in 1996, but my family moved to Western North Carolina before I can remember, so the Great Smoky Mountains feel like my true home. When I was 12, my mom and I moved to live with my grandparents in Albany, NY where I eventually graduated from Bethlehem Central High School. I attended the University of North Carolina at Chapel Hill, where I received a Bachelor's of Science in Biology. After I graduated, I moved to Davis, California to study honey bees at the University of California at Davis in the entomology department. I have always kept my hands busy with various crafts and projects such as knitting and sewing. I also love food, nature, and the outdoors. I currently live in Davis, CA with my boyfriend, and our cat, Maple. </p> <h4>
+  	<h4> <strong> Favorite Books: </strong> </h4>
+<ul style="list-style-type:none;">
+	<li> Ishmael, The Story of B, and My Ishmael, by Daniel Quinn </li>
+	<li>Cat's Cradle, by Kurt Vonnegut </li>
+	<li> Braiding Sweetgrass, by Robin Wall Kimmerer </li>
+	<li> Omnivore's Dilemma, by Michael Pollan </li>
+	<li> Zen and the Art of Motorcycle Maintenance, by Robert Pirsig </li>
+	<li> Tao of Pooh and Te of Piglet, by Benjamin Hoff </li>
+	<li>Of Mice and Men, by John Steinbeck </li>
+	<li> Alice in Wonderland and Through the Looking Glass by Lewis Carroll </li>
+	<li> Lord of the Flies, by William Golding </li>
+
+</ul>
+
+	<h4><strong> Favorite Movies: </strong></h4>
+	<ul style="list-style-type:none;">
+	<li> It's Such a Beautiful Day, by Don Hertzfeldt </li>
+	<li> Fantasia, by Walt Disney </li>
+	<li> H8ful Eight, by Quentin Tarantino </li>
+	<li>Life Aquatic With Steve Zissou, by Wes Anderson </li> 
+	<li>Grizzly Man, by Werner Herzog </li> 
+	<li> Blue Velvet by David Lynch </li>
+	 <li>Captain Fantastic, by Matt Ross </li>
+	 <li> TheBig Lebowski, by The Coen Brothers</li> 
+</ul>
+
+
+ <h4> <strong> Other Hobbies/Interests </strong></h4>
+<ul style="list-style-type:none;">
+ 	<li> Hiking and Camping </li> <li> Gardening </li> <li> Baking and Cooking </li> <li> Beekeeping </li> <li> Reading </li> <li> Watching movies </li> <li> Yoga </li> <li> Volunteering </li> <li> Snowboarding </li>
+ </ul>
+
+</center>
+</body>
+
+</html>
