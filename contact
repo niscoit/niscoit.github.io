@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title> Contact </title>
+<style> 
+html{
+	color: rgb(236, 240, 235);
+	font-family: 'herculanum';
+	background-color:rgb(36, 59, 28)
+}
+body{
+
+}
+h1{font-family: 'herculanum';
+
+
+}
+h4{font-family: 'herculanum';
+
+}
+li{font-family: 'herculanum';}
+a {color: rgb(237,177, 56);}
+  </style>
+  <body> <center>
+<h1> Contact </h1>
+<h3> <ul style="list-style-type:none;">
+	<li> Phone: (518)-321-1791</li>
+	<li> Email: niscoit@gmail.com</li>
+	<li> <a href ="https://www.linkedin.com/in/nissa-coit-434973160/">LinkedIn </a></li>
+		<li> <a href ="https://www.instagram.com/holeyknoll/">Instagram </a></li>
+			<li> <a href= "https://www.etsy.com/shop/holeyknoll?ref=shop_sugg"> Etsy </a> </li>
+
+		 </ul>
+  	</center>
+</body>
+
+</html>
