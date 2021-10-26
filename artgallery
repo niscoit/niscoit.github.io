@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title> Art Gallery </title>
+<style>
+html{
+	color: rgb(236, 240, 235);
+	font-family: 'herculanum';
+	background-color:rgb(36, 59, 28)
+}
+body{
+
+
+}
+h1{font-family: 'herculanum';
+
+
+}
+h4{font-family: 'herculanum';
+
+}
+li{font-family: 'papyrus';}
+a {color: rgb(237,177, 56);}
+  </style>
+  <body> <center>
+<h4><strong> Artistic Accomplishments </strong></h4>
+	<ul style="list-style-type:none;">
+	<li> Wheel thrown and hand built pottery </li>
+	<li> Knitting </li>
+	<li>Crocheting </li>
+	<li> Distaff spinning </li>
+	<li> Fabric dyeing </li>
+	<li> Sewing </li>
+	<li> Candlemaking and Wax working </li>
+	<li> Embroidery </li>
+	<li> Macrame </li>
+	<li> Print-carving </li> 
+	<li>Watercolors </li>
+	<li> Weaving </li> 
+	<li> Digital Art </li>
+</ul>
+ <h4> Check out my  <a href ="https://www.instagram.com/holeyknoll/">Instagram </a>  and <a href= "<li> <a href= "https://www.etsy.com/shop/holeyknoll?ref=shop_sugg"> Etsy </a> for more! </h4>
+
+ </center>
+</body>
+
+</html>
